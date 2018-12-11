@@ -6,7 +6,7 @@ public class StopWatch {
     }
 
 
-    //Dette er en test comment
+    //Dette er en test comment 2
     private long startTime = System.currentTimeMillis();
     private long endTime = System.currentTimeMillis();
     public void start(){
